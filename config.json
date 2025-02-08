@@ -1,0 +1,8 @@
+[
+  {
+    "port": 8000,
+    "appname": "task-server",
+    "endpoints": "/api/v1",
+    "domain": "localhost"
+  }
+]
